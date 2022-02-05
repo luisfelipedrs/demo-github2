@@ -41,9 +41,6 @@ public class Program {
             System.out.println();
         }
 
-
-
-
         printMat(mat);
 
         sc.close();
